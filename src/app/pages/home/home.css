@@ -1,0 +1,7 @@
+.contenedor-registros {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  width: auto;
+  height: 20vw;
+}
